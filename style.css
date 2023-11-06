@@ -198,6 +198,7 @@ LANDING PAGE
     width: 100%;
     max-width: 1000px;
     padding: 0 30px;
+    z-index: 1;
 }
 
 .header__para {
@@ -507,7 +508,7 @@ PROJECTS
 */
 
 .project {
-    margin-bottom: 135px
+    margin-bottom: 135px;
 }
 
 .section__title {
